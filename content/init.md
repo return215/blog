@@ -5,3 +5,6 @@ draft: false
 ---
 
 This is an inital post, making sure everything works.
+
+Now when was the last time you look up to the skies?
+
