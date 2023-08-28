@@ -16,7 +16,7 @@ params:
   keyword: "journey, blog, devlog, homepage"
 
 taxonomies:
-  category: "blog"
+  category: "categories"
   tag: "tags"
   series: "series"
 
