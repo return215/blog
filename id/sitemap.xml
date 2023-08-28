@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://return215.github.io/blog/id/blog/</loc>
+    <loc>https://return215.github.io/blog/id/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://return215.github.io/blog/blog/"
+                href="https://return215.github.io/blog/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="https://return215.github.io/blog/id/blog/"
+                href="https://return215.github.io/blog/id/categories/"
                 />
   </url><url>
     <loc>https://return215.github.io/blog/id/</loc>
