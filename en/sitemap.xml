@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://return215.github.io/init/</loc>
-    <lastmod>2023-08-03T18:16:20+07:00</lastmod>
+    <loc>https://return215.github.io/blog/init/</loc>
+    <lastmod>2023-08-28T13:28:15+07:00</lastmod>
+  </url><url>
+    <loc>https://return215.github.io/blog/blog/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://return215.github.io/blog/id/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://return215.github.io/blog/blog/"
+                />
+  </url><url>
+    <loc>https://return215.github.io/blog/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://return215.github.io/blog/id/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://return215.github.io/blog/series/"
+                />
+  </url><url>
+    <loc>https://return215.github.io/blog/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://return215.github.io/blog/id/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://return215.github.io/blog/tags/"
+                />
   </url><url>
     <loc>https://return215.github.io/blog/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="https://return215.github.io/id/blog/"
+                href="https://return215.github.io/blog/id/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="https://return215.github.io/blog/"
-                />
-  </url><url>
-    <loc>https://return215.github.io/series/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://return215.github.io/id/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://return215.github.io/series/"
-                />
-  </url><url>
-    <loc>https://return215.github.io/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://return215.github.io/id/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://return215.github.io/tags/"
-                />
-  </url><url>
-    <loc>https://return215.github.io/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="id"
-                href="https://return215.github.io/id/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://return215.github.io/"
                 />
   </url>
 </urlset>
