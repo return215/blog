@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://return215.github.io/blog/id/categories/</loc>
+    <loc>http://blog.return215.xyz/id/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://return215.github.io/blog/categories/"
+                href="http://blog.return215.xyz/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="https://return215.github.io/blog/id/categories/"
+                href="http://blog.return215.xyz/id/categories/"
                 />
   </url><url>
-    <loc>https://return215.github.io/blog/id/</loc>
+    <loc>http://blog.return215.xyz/id/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://return215.github.io/blog/"
+                href="http://blog.return215.xyz/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="https://return215.github.io/blog/id/"
+                href="http://blog.return215.xyz/id/"
                 />
   </url><url>
-    <loc>https://return215.github.io/blog/id/series/</loc>
+    <loc>http://blog.return215.xyz/id/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://return215.github.io/blog/series/"
+                href="http://blog.return215.xyz/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="https://return215.github.io/blog/id/series/"
+                href="http://blog.return215.xyz/id/series/"
                 />
   </url><url>
-    <loc>https://return215.github.io/blog/id/tags/</loc>
+    <loc>http://blog.return215.xyz/id/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://return215.github.io/blog/tags/"
+                href="http://blog.return215.xyz/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="https://return215.github.io/blog/id/tags/"
+                href="http://blog.return215.xyz/id/tags/"
                 />
   </url>
 </urlset>
