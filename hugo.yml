@@ -36,3 +36,8 @@ languages:
         logoText: Jiwa Yang Kembali
         logoHomeLink: '/'
 
+menu:
+  main:
+  - identifier: "log"
+    name: "Blog"
+    url: "/log"
