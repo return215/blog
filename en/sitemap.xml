@@ -2,78 +2,78 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://blog.return215.xyz/tags/ai/</loc>
-    <lastmod>2023-09-09T16:47:00+07:00</lastmod>
+    <loc>https://blog.return215.xyz/tags/ai/</loc>
+    <lastmod>2023-09-09T16:51:55+07:00</lastmod>
   </url><url>
-    <loc>http://blog.return215.xyz/tags/experience/</loc>
-    <lastmod>2023-09-09T16:47:00+07:00</lastmod>
+    <loc>https://blog.return215.xyz/tags/experience/</loc>
+    <lastmod>2023-09-09T16:51:55+07:00</lastmod>
   </url><url>
-    <loc>http://blog.return215.xyz/log/</loc>
-    <lastmod>2023-09-09T16:47:00+07:00</lastmod>
+    <loc>https://blog.return215.xyz/log/</loc>
+    <lastmod>2023-09-09T16:51:55+07:00</lastmod>
   </url><url>
-    <loc>http://blog.return215.xyz/tags/oc/</loc>
-    <lastmod>2023-09-09T16:47:00+07:00</lastmod>
+    <loc>https://blog.return215.xyz/tags/oc/</loc>
+    <lastmod>2023-09-09T16:51:55+07:00</lastmod>
   </url><url>
-    <loc>http://blog.return215.xyz/tags/pixai/</loc>
-    <lastmod>2023-09-09T16:47:00+07:00</lastmod>
+    <loc>https://blog.return215.xyz/tags/pixai/</loc>
+    <lastmod>2023-09-09T16:51:55+07:00</lastmod>
   </url><url>
-    <loc>http://blog.return215.xyz/log/pixai-experience/</loc>
-    <lastmod>2023-09-09T16:47:00+07:00</lastmod>
+    <loc>https://blog.return215.xyz/log/pixai-experience/</loc>
+    <lastmod>2023-09-09T16:51:55+07:00</lastmod>
   </url><url>
-    <loc>http://blog.return215.xyz/tags/review/</loc>
-    <lastmod>2023-09-09T16:47:00+07:00</lastmod>
+    <loc>https://blog.return215.xyz/tags/review/</loc>
+    <lastmod>2023-09-09T16:51:55+07:00</lastmod>
   </url><url>
-    <loc>http://blog.return215.xyz/tags/</loc>
-    <lastmod>2023-09-09T16:47:00+07:00</lastmod>
+    <loc>https://blog.return215.xyz/tags/</loc>
+    <lastmod>2023-09-09T16:51:55+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://blog.return215.xyz/id/tags/"
+                href="https://blog.return215.xyz/id/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://blog.return215.xyz/tags/"
+                href="https://blog.return215.xyz/tags/"
                 />
   </url><url>
-    <loc>http://blog.return215.xyz/</loc>
-    <lastmod>2023-09-09T16:47:00+07:00</lastmod>
+    <loc>https://blog.return215.xyz/</loc>
+    <lastmod>2023-09-09T16:51:55+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://blog.return215.xyz/id/"
+                href="https://blog.return215.xyz/id/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://blog.return215.xyz/"
+                href="https://blog.return215.xyz/"
                 />
   </url><url>
-    <loc>http://blog.return215.xyz/init/</loc>
-    <lastmod>2023-09-09T16:47:00+07:00</lastmod>
+    <loc>https://blog.return215.xyz/init/</loc>
+    <lastmod>2023-09-09T16:51:55+07:00</lastmod>
   </url><url>
-    <loc>http://blog.return215.xyz/categories/</loc>
+    <loc>https://blog.return215.xyz/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://blog.return215.xyz/id/categories/"
+                href="https://blog.return215.xyz/id/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://blog.return215.xyz/categories/"
+                href="https://blog.return215.xyz/categories/"
                 />
   </url><url>
-    <loc>http://blog.return215.xyz/series/</loc>
+    <loc>https://blog.return215.xyz/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://blog.return215.xyz/id/series/"
+                href="https://blog.return215.xyz/id/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://blog.return215.xyz/series/"
+                href="https://blog.return215.xyz/series/"
                 />
   </url>
 </urlset>

@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://blog.return215.xyz/id/categories/</loc>
+    <loc>https://blog.return215.xyz/id/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://blog.return215.xyz/categories/"
+                href="https://blog.return215.xyz/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://blog.return215.xyz/id/categories/"
+                href="https://blog.return215.xyz/id/categories/"
                 />
   </url><url>
-    <loc>http://blog.return215.xyz/id/</loc>
+    <loc>https://blog.return215.xyz/id/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://blog.return215.xyz/"
+                href="https://blog.return215.xyz/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://blog.return215.xyz/id/"
+                href="https://blog.return215.xyz/id/"
                 />
   </url><url>
-    <loc>http://blog.return215.xyz/id/series/</loc>
+    <loc>https://blog.return215.xyz/id/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://blog.return215.xyz/series/"
+                href="https://blog.return215.xyz/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://blog.return215.xyz/id/series/"
+                href="https://blog.return215.xyz/id/series/"
                 />
   </url><url>
-    <loc>http://blog.return215.xyz/id/tags/</loc>
+    <loc>https://blog.return215.xyz/id/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://blog.return215.xyz/tags/"
+                href="https://blog.return215.xyz/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="http://blog.return215.xyz/id/tags/"
+                href="https://blog.return215.xyz/id/tags/"
                 />
   </url>
 </urlset>
